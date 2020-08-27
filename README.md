@@ -1,2 +1,2 @@
 # Movie-review-Tensorflow
- Analysing if the review is positive or negative
+ Analysing if the movie review is positive or negative
